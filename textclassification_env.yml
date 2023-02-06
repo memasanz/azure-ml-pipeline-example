@@ -1,0 +1,15 @@
+name: textclassification_env
+dependencies:
+- python=3.8.5
+- scikit-learn
+- ipykernel
+- matplotlib
+- pandas
+- pip
+- pip:
+  - azureml-defaults
+  - numpy
+  - joblib
+  - sklearn
+  
+  
